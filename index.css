@@ -1,0 +1,131 @@
+html, body{
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+}
+
+
+/* ////////////////// 
+      Typography
+////////////////// */
+
+
+h2{
+    color: white;
+    padding-top: 630px;
+    margin-bottom: 7px;
+}
+
+p{
+    color: #B7B7B7;
+    /* margin-bottom: 30px; */
+
+}
+
+h2, p{
+    margin-left: 20px;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+/* /////////////
+  Buttons
+/////////////// */
+
+button{
+    border: none;
+    border-radius: 50%;
+    padding: 16px;
+    margin: 16px;
+    background: #ffff;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+#Nope-btn:hover, 
+#Nope-btn:focus{
+    background: #DBFFF4;
+}
+
+#liked-btn:hover,
+#liked-btn:focus{
+    background: #FFE7EF;
+}
+
+
+/* ///////////////
+  icons and logs
+///////////////// */
+
+.icons{
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+
+
+.small-icon{
+   width: 40px;
+   height: 40px;
+}
+
+.logo-icon{
+    width: 70px;
+}
+
+
+.main, header {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+@media (min-width: 550px){
+    header {
+        max-width: 500px;
+    }
+}
+
+
+/* ///////////////
+   main-section
+///////////////// */
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    object-fit: cover;
+    position: relative;
+    border-radius: 16px;
+    height: 730px;
+    width: 500px;
+}
+
+.information{
+    height: 700px;
+    width: 500px;
+}
+
+.Badge-images{
+    display: flex;
+    position: absolute;
+    width: 40%;
+    top: 9%;
+    left: 5%;
+    rotate: -35deg;
+}
+
+.bio{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 20px;
+}
+
+/* https://scrimba.com/scrim/cof2c42ad8df75ec85c446006 */
