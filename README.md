@@ -1,11 +1,6 @@
-# co1f6409f98504f86c60653c5
-
+# Tindog
 Quick start:
 
-```
-$ npm install
-$ npm start
-````
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
