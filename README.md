@@ -43,7 +43,7 @@ $ cd Tindog-project
 
 -----
 
-## Languages and Tools are used
+## Languages and Tools are used 🗣️ 🔧
 
 1. **Languages** 🗣️
     + [HTML](https://github.com/topics/html)
@@ -78,7 +78,6 @@ $ cd Tindog-project
 ## Author 👩🏻‍💻 
 
 **Mastoora Turkmen**  
-
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 <br>
 [Github](https://github.com/MastooraTurkmen/) 
