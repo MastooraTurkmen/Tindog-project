@@ -89,3 +89,6 @@ $ cd Tindog-project
 
 # Codes that are used
 
+1. Index HTML
+2. 
+
