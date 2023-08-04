@@ -83,3 +83,9 @@ $ cd Tindog-project
 [Github](https://github.com/MastooraTurkmen/) 
 <br>
 [Twitter](https://twitter.com/MastooraJ22)
+
+
+
+
+# Codes that are used
+
