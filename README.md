@@ -85,6 +85,7 @@ $ cd Tindog-project
 [Twitter](https://twitter.com/MastooraJ22)
 
 
+------
 
 
 # Codes that are used
@@ -96,5 +97,5 @@ $ cd Tindog-project
   + Data JS
 
 
-
+## Index HTML
 
