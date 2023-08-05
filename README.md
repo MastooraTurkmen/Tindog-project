@@ -113,6 +113,27 @@ $ cd Tindog-project
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <title>TinDogs</title>
 </head> 
-
+<body>
+    <header>
+        <div class="icons">
+            <img src="images/icon-profile.png" class="small-icon">
+            <img src="images/logo.png" class="small-icon logo-icon">
+            <img src="images/icon-chat.png" class="small-icon">
+        </div>
+    </header>
+    
+    <section>
+        <div class="main" id="main">
+        </div>
+    </section>
+    
+    <section class="button">
+        <button class="liked-btn" id="liked-btn"><img src="images/icon-cross.png"></button>
+        <button class="Nope-btn" id="Nope-btn"><img src="images/icon-heart.png"></button>
+    </section>
+    
+        <script src="/index.js" type="module"></script>
+</body>
+</html>
 ```
 
