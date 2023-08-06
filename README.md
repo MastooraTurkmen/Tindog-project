@@ -201,5 +201,38 @@ button{
     background: #FFE7EF;
 }
 
+/* ///////////////
+  icons and logs
+///////////////// */
+
+.icons{
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+
+
+.small-icon{
+   width: 40px;
+   height: 40px;
+}
+
+.logo-icon{
+    width: 70px;
+}
+
+.main, header {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+@media (min-width: 550px){
+    header {
+        max-width: 500px;
+    }
+}
+
+
 
 ```
