@@ -159,4 +159,47 @@ h2{
     margin-bottom: 7px;
 }
 
+p{
+    color: #B7B7B7;
+    margin-bottom: 30px;
+
+}
+
+h2, p{
+    margin-left: 20px;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+/* /////////////
+  Buttons
+/////////////// */
+
+button{
+    border: none;
+    border-radius: 50%;
+    padding: 16px;
+    margin: 16px;
+    background: #ffff;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+#Nope-btn:hover, 
+#Nope-btn:focus{
+    background: #DBFFF4;
+}
+
+#liked-btn:hover,
+#liked-btn:focus{
+    background: #FFE7EF;
+}
+
+
 ```
