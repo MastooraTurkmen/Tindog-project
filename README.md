@@ -140,6 +140,23 @@ $ cd Tindog-project
 
 ## Index CSS
 
-```
+```css
+html, 
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+}
+
+
+/* ////////////////// 
+      Typography
+////////////////// */
+
+
+h2{
+    color: white;
+    padding-top: 630px;
+    margin-bottom: 7px;
+}
 
 ```
