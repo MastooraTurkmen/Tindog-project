@@ -139,3 +139,7 @@ $ cd Tindog-project
 
 
 ## Index CSS
+
+```
+
+```
