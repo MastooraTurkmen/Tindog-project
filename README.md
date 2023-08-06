@@ -234,5 +234,40 @@ button{
 }
 
 
+/* ///////////////
+   main-section
+///////////////// */
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    object-fit: cover;
+    position: relative;
+    border-radius: 16px;
+    height: 745px;
+    width: 500px;
+}
+
+.information{
+    height: 700px;
+    width: 500px;
+}
+
+.Badge-images{
+    display: flex;
+    position: absolute;
+    width: 40%;
+    top: 9%;
+    left: 5%;
+    rotate: -35deg;
+}
+
+.bio{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 30px;
+}
 
 ```
