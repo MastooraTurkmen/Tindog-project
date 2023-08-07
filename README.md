@@ -275,7 +275,18 @@ button{
 ## Index JS
 
 ```js
+import Dog from './Dog.js'
+import dogs from './data.js'
 
 
+const newgetDogs = () => {
+    const freshDog = dogs.shift()
+    dogs.push(freshDog)
+    return freshDog
+}
 
+document.getElementById('liked-btn').addEventListener('click', (e) => {
+    dog.hasBeenLiked = true
+    anotherDog()
+})
 ```
