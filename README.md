@@ -293,4 +293,13 @@ document.getElementById('liked-btn').addEventListener('click', (e) => {
 document.getElementById('Nope-btn').addEventListener('click', (e) =>{
     anotherDog()
 })
+
+function anotherDog(){
+    dog.hasBeenSwiped = true
+    renderDog()
+    dog = new Dog(newgetDogs())
+    setTimeout(()=>{
+        renderDog()
+    }, 2000)
+}
 ```
