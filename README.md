@@ -289,4 +289,8 @@ document.getElementById('liked-btn').addEventListener('click', (e) => {
     dog.hasBeenLiked = true
     anotherDog()
 })
+
+document.getElementById('Nope-btn').addEventListener('click', (e) =>{
+    anotherDog()
+})
 ```
