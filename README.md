@@ -309,4 +309,7 @@ function renderDog(){
     document.getElementById('main').style.backgroundSize = "cover"
 }
 
+let dog = new Dog(newgetDogs())
+renderDog()
+
 ```
