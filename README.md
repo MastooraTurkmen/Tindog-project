@@ -332,4 +332,16 @@ class Dog{
                 </div>
         `
     }
+    
+    setBadgeHtml(){
+        if(this.hasBeenSwiped){
+            if(this.hasBeenLiked){
+                return `<img src="https://i.postimg.cc/HnwJQr54/badge-nope.png">`
+            } else {
+                return `<img src="https://i.postimg.cc/NML77kf8/badge-like.png">`
+            } 
+        } else{
+            return ""
+        }
+    }
 ```
