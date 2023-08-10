@@ -318,5 +318,8 @@ renderDog()
 ### Dog JS
 
 ```js
-
+class Dog{
+    constructor(data){
+        Object.assign(this, data)
+    }
 ```
