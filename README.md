@@ -322,4 +322,14 @@ class Dog{
     constructor(data){
         Object.assign(this, data)
     }
+    
+    getDog(){
+        const {name, age, bio} = this
+        return `
+             <div class="information">
+                    <h2>${name}, ${age}</h2>
+                    <p class="bio">${bio}</p>
+                </div>
+        `
+    }
 ```
