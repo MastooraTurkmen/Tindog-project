@@ -313,3 +313,7 @@ let dog = new Dog(newgetDogs())
 renderDog()
 
 ```
+
+
+### Dog JS
+
