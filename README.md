@@ -332,7 +332,7 @@ class Dog{
                 </div>
         `
     }
-    
+
     setBadgeHtml(){
         if(this.hasBeenSwiped){
             if(this.hasBeenLiked){
@@ -344,4 +344,16 @@ class Dog{
             return ""
         }
     }
+
+    getDogHtml(){
+        return `
+        <div class ="dog-card" id="dog-card">
+            ${this.getDog()}
+        </div>
+        
+        <div class="Badge-images">
+            ${this.setBadgeHtml()}
+        </div>
+        
+       `
 ```
