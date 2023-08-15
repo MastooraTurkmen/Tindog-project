@@ -368,4 +368,9 @@ export default Dog
 
 ```js
 
+const dogs = [
+    {
+        name: "Rex",
+
+    }
 ```
