@@ -366,5 +366,6 @@ export default Dog
 
 ### Data JS
 
-```
+```js
+
 ```
