@@ -375,5 +375,6 @@ const dogs = [
         age: 25,
         bio: "Art. Literature. Natural wine. Yoga.",
         hasBeenSwiped: false,
-    }
+        hasBeenLiked: false
+    }]
 ```
