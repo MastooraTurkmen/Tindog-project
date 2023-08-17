@@ -378,7 +378,8 @@ const dogs = [
         hasBeenLiked: false
     },{
         name: "Bella",
-        
+        avatar: "https://i.postimg.cc/hjYsHdQ8/dog-bella.jpg",
+
     },
     
     ]
