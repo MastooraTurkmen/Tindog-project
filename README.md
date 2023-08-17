@@ -379,6 +379,7 @@ const dogs = [
     },{
         name: "Bella",
         avatar: "https://i.postimg.cc/hjYsHdQ8/dog-bella.jpg",
+        age: 43,
 
     },
     
