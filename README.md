@@ -376,5 +376,10 @@ const dogs = [
         bio: "Art. Literature. Natural wine. Yoga.",
         hasBeenSwiped: false,
         hasBeenLiked: false
-    }]
+    },{
+        name: "Bella",
+        
+    },
+    
+    ]
 ```
