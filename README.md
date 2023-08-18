@@ -381,7 +381,7 @@ const dogs = [
         avatar: "https://i.postimg.cc/hjYsHdQ8/dog-bella.jpg",
         age: 43,
         bio: "Yup, that's my owner. U can meet him if you want",
-
+        hasBeenSwiped: false,
     },
     
     ]
