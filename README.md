@@ -382,6 +382,7 @@ const dogs = [
         age: 43,
         bio: "Yup, that's my owner. U can meet him if you want",
         hasBeenSwiped: false,
+        hasBeenLiked: false
     },
     
     ]
