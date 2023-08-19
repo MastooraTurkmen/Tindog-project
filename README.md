@@ -384,6 +384,8 @@ const dogs = [
         hasBeenSwiped: false,
         hasBeenLiked: false
     },
-    
+    {
+
+    }
     ]
 ```
