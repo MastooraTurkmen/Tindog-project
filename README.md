@@ -385,6 +385,7 @@ const dogs = [
         hasBeenLiked: false
     },
     {
+        name: "Teddy",
 
     }
     ]
