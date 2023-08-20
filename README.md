@@ -390,6 +390,7 @@ const dogs = [
         age: 30,
         bio: "How you doin?",
         hasBeenSwiped: false,
+        hasBeenLiked: false
     }
     ]
 ```
