@@ -389,7 +389,7 @@ const dogs = [
         avatar: "https://i.postimg.cc/zGKzFrV3/dog-teddy.jpg",
         age: 30,
         bio: "How you doin?",
-
+        hasBeenSwiped: false,
     }
     ]
 ```
