@@ -387,6 +387,7 @@ const dogs = [
     {
         name: "Teddy",
         avatar: "https://i.postimg.cc/zGKzFrV3/dog-teddy.jpg",
+        age: 30,
 
     }
     ]
