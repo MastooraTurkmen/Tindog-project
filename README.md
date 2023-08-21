@@ -393,4 +393,7 @@ const dogs = [
         hasBeenLiked: false
     }
     ]
+
+export default dogs
+
 ```
