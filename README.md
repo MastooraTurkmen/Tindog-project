@@ -397,3 +397,6 @@ const dogs = [
 export default dogs
 
 ```
+
+
+## Updating the images to the direct links 🔗 🖇
