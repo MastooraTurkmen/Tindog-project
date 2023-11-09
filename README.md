@@ -10,7 +10,7 @@ https://tindog-best-dogs.netlify.app/
 
 ### Teddy, 30
 
-![Teddy image](./images/Teddy.png)
+![Teddy image](./screenshots/Teddy.png)
 
 
 
