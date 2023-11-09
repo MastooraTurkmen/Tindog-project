@@ -27,7 +27,7 @@ https://tindog-best-dogs.netlify.app/
 
 
 ![Bella image](./screenshots/bella.png)
-![Bella image with nope](./images/bella-with-nope.png)
+![Bella image with nope](./screenshots/bella-with-nope.png)
 
 -----
 
