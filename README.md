@@ -20,7 +20,7 @@ https://tindog-best-dogs.netlify.app/
 
 
 ![Rex image](./screenshots/Rex.png)
-![Rex with heart](/images/Rex-with-heart.png)
+![Rex with heart](/screenshots/Rex-with-heart.png)
 
 
 ### Bella, 43
