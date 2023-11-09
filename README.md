@@ -19,7 +19,7 @@ https://tindog-best-dogs.netlify.app/
 + Art. Literature. Natural wine. Yoga
 
 
-![Rex image](./images/Rex.png)
+![Rex image](./screenshots/Rex.png)
 ![Rex with heart](/images/Rex-with-heart.png)
 
 
