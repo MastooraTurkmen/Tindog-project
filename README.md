@@ -26,7 +26,7 @@ https://tindog-best-dogs.netlify.app/
 ### Bella, 43
 
 
-![Bella image](./images/bella.png)
+![Bella image](./screenshots/bella.png)
 ![Bella image with nope](./images/bella-with-nope.png)
 
 -----
