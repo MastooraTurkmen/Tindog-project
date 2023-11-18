@@ -33,7 +33,7 @@ function anotherDog(){
 
 function renderDog(){
     document.getElementById('main').innerHTML = dog.getDogHtml()
-    document.getElementById('main').style.background = `url(./${dog.avatar})`
+    document.getElementById('main').style.background = `url(${dog.avatar})`
     document.getElementById('main').style.backgroundSize = "cover"
 }
 

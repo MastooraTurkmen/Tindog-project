@@ -16,7 +16,7 @@ const dogs = [
     },
     {
         name: "Teddy",
-        avatar: "images/dog-teddy.jpg",
+        avatar: "https://i.postimg.cc/zGKzFrV3/dog-teddy.jpg",
         age: 30,
         bio: "How you doin?",
         hasBeenSwiped: false,
