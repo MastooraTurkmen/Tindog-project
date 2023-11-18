@@ -1,3 +1,6 @@
+// Adding images URL instead of images png
+
+
 const dogs = [
     {
         name: "Rex",
@@ -25,5 +28,3 @@ const dogs = [
 ]
 
 export default dogs
-
-// Remember to export the data!
