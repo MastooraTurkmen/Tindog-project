@@ -24,3 +24,12 @@ Head over to https://vitejs.dev/ to learn more about using vite
 ### Teddy, 30
 
 ![Teddy image](./images/Teddy.png)
+
+
+
+### Rex, 25 
+
++ Art. Literature. Natural wine. Yoga
+
+
+![Rex image](./images/Rex.png)
