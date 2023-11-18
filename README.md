@@ -45,7 +45,7 @@ https://tindog-best-dogs.netlify.app/
 
 ![Bella image with nope](./images/bella-with-nope.png)
 
-
+-----
 
 ## Languages and Tools are used
 
@@ -61,3 +61,8 @@ https://tindog-best-dogs.netlify.app/
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
+
+
+-----
+
+
