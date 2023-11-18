@@ -104,7 +104,7 @@ button{
     object-fit: cover;
     position: relative;
     border-radius: 16px;
-    height: 730px;
+    height: 745px;
     width: 500px;
 }
 
@@ -125,7 +125,5 @@ button{
 .bio{
     margin-top: 0px;
     padding-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
-
-/* https://scrimba.com/scrim/cof2c42ad8df75ec85c446006 */
