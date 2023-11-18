@@ -37,3 +37,9 @@ Head over to https://vitejs.dev/ to learn more about using vite
 ![Rex with heart](/images/Rex-with-heart.png)
 
 
+### Bella, 43
+
+
+![Bella image](./images/bella.png)
+
+![Bella image with nope](./images/bella-with-nope.png)
