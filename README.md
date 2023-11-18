@@ -33,3 +33,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 
 ![Rex image](./images/Rex.png)
+
+![Rex with heart](/images/Rex-with-heart.png)
+
+
