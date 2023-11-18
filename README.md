@@ -48,3 +48,5 @@ https://tindog-best-dogs.netlify.app/
 
 
 ## Languages and Tools are used
+
+1. **Languages** 🗣️
