@@ -57,3 +57,4 @@ https://tindog-best-dogs.netlify.app/
     + [JavaScript](https://github.com/topics/javascript)
 
 2. **Tools** 🔧
+    + [Chrome](https://github.com/topics/chrome)
