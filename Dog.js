@@ -17,9 +17,9 @@ class Dog{
     setBadgeHtml(){
         if(this.hasBeenSwiped){
             if(this.hasBeenLiked){
-                return `<img src="images/badge-nope.png">`
+                return `<img src="./images/badge-nope.png">`
             } else {
-                return `<img src="images/badge-like.png">`
+                return `<img src="./images/badge-like.png">`
             } 
         } else{
             return ""
