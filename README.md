@@ -64,3 +64,4 @@ $ cd Tindog-project
 -----
 
 
+## Author 👩🏻‍💻 
