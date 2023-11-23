@@ -45,6 +45,7 @@ $  npm start
 
 ```
 $  pnpm run dev
+$  pnpm start
 ```
 
 
