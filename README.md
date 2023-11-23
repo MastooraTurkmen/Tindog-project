@@ -35,14 +35,18 @@ https://tindog-best-dogs.netlify.app/
 
 ## Before you Begin 🛠 🔨
 
+
 Quick start:
 
 ```
-
 $  npm run dev
 $  npm start
+```
 
 ```
+$  pnpm run dev
+```
+
 
 Head over to https://vitejs.dev/ to learn more about using vite
 
