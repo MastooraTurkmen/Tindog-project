@@ -40,6 +40,7 @@ https://tindog-best-dogs.netlify.app/
 $ git clone https://github.com/MastooraTurkmen/Tindog-project.git
 
 # Go inside the repository
+$ cd Tindog-project
 ```
 
 -----
