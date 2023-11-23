@@ -65,3 +65,5 @@ $ cd Tindog-project
 
 
 ## Author 👩🏻‍💻 
+
+**Mastoora Turkmen**  
