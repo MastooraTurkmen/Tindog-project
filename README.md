@@ -33,6 +33,7 @@ https://tindog-best-dogs.netlify.app/
 
 -----
 
+## Cloning the project 🪛🔨
 
 
 -----
