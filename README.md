@@ -1,14 +1,4 @@
 # Tindog
-Quick start:
-
-```
-
-$  npm run dev
-$  npm start
-
-```
-
-Head over to https://vitejs.dev/ to learn more about using vite
 
 
 
@@ -44,6 +34,22 @@ https://tindog-best-dogs.netlify.app/
 ![Bella image](./images/bella.png)
 
 ![Bella image with nope](./images/bella-with-nope.png)
+
+
+## Before you Begin 🛠 🔨
+
+Quick start:
+
+```
+
+$  npm run dev
+$  npm start
+
+```
+
+Head over to https://vitejs.dev/ to learn more about using vite
+
+
 
 -----
 
