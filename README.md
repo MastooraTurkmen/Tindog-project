@@ -1,8 +1,4 @@
-# Tindog
-
-
-
-## About Tindog Project
+# About Tindog Project
 
 https://tindog-best-dogs.netlify.app/
 
@@ -35,6 +31,7 @@ https://tindog-best-dogs.netlify.app/
 
 ![Bella image with nope](./images/bella-with-nope.png)
 
+-----
 
 ## Before you Begin 🛠 🔨
 
