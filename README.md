@@ -63,6 +63,14 @@ $ cd Tindog-project
 
 -----
 
+## Deployment📥
+
+
+
+
+
+-----
+
 
 ## Author 👩🏻‍💻 
 
