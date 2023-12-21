@@ -26,7 +26,7 @@ https://tindog-best-dogs.netlify.app/
 
 ### Tinder, 20
 
-![Alt text](image.png)
+![Tinder](./screenshots/Tinder-with-rose.png)
 
 -----
 
