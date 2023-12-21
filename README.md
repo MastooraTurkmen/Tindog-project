@@ -22,6 +22,12 @@ https://tindog-best-dogs.netlify.app/
 ![Bella image](./screenshots/bella.png)
 ![Bella image with nope](./screenshots/bella-with-nope.png)
 
+
+
+### Tinder, 20
+
+![Alt text](image.png)
+
 -----
 
 ## Cloning the project 🪛🔨
