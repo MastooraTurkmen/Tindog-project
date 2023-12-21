@@ -1,7 +1,6 @@
 # About Tindog Project
 
 https://tindog-best-dogs.netlify.app/
-
 > Tindogs which they can do many things, and they have several skills
 
 1. By clicking **_X_** icon you will vote it *Nope*
@@ -9,22 +8,16 @@ https://tindog-best-dogs.netlify.app/
 
 
 ### Teddy, 30
-
 ![Teddy image](./screenshots/Teddy.png)
 
-
-
 ### Rex, 25 
-
 + Art. Literature. Natural wine. Yoga
-
 
 ![Rex image](./screenshots/Rex.png)
 ![Rex with heart](/screenshots/Rex-with-heart.png)
 
 
 ### Bella, 43
-
 
 ![Bella image](./screenshots/bella.png)
 ![Bella image with nope](./screenshots/bella-with-nope.png)
@@ -83,7 +76,6 @@ $ cd Tindog-project
 [Github](https://github.com/MastooraTurkmen/) 
 <br>
 [Twitter](https://twitter.com/MastooraJ22)
-
 
 ------
 
