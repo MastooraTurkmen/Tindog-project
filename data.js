@@ -27,7 +27,7 @@ const dogs = [
     },
     {
         name: "Tinder",
-        avatar: "https://i.postimg.cc/zGKzFrV3/dog-teddy.jpg",
+        avatar: "https://i.postimg.cc/yNSR2bG7/Tinder.png",
         age: 20,
         bio: "This Rose is for you my Darling",
         hasBeenSwiped: false,
